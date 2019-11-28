@@ -1,16 +1,9 @@
-int x = 0;
-num F = 86;
-num C = 30;
-
-void main(){
-  if (x == 0) {
-  num F2 = C*9/5+32;
-			print('F=$F2');
-  }
-  else{
-    
-    num C2 = (F-32)*5/9;
-			print('C=$C2');
-  }
-  print('x=0,1切換(華氏、攝氏)');
-  }
+main(){
+num c=32;
+num f=32;
+double k1=(9/5)*c+32;
+double k2=(f-32)*5/9;
+print('The value of x at c=$c is: $k1');
+print('The value of x at f=$f is: $k2');
+}
+   
