@@ -23,7 +23,9 @@
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20200107233047.1"><vh>重量轉換</vh></v>
+<v t="leo.20200107233047.1"><vh>重量轉換</vh>
+<v t="leo.20200107233815.1"><vh>重量轉換</vh></v>
+</v>
 </v>
 <v t="leo.20200107232831.1"><vh>心得</vh>
 <v t="leo.20200107232856.1"><vh>心得</vh></v>
@@ -337,6 +339,13 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107232856.1">#從開學到現在，我從如何架網站，到自己畫一面國旗，從Dart.pay到Java scrip
 真的很開...心
 </t>
-<t tx="leo.20200107233047.1"></t>
+<t tx="leo.20200107233047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200107233815.1">&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823151&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/temperature-2&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
