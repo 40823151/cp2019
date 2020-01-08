@@ -29,6 +29,9 @@
 <v t="leo.20200108193452.1"><vh>溫度轉換</vh>
 <v t="leo.20200108193515.1"><vh>溫度轉換</vh></v>
 </v>
+<v t="leo.20200108211320.1"><vh>國旗</vh>
+<v t="leo.20200108211336.1"><vh>國旗</vh></v>
+</v>
 </v>
 <v t="leo.20200107232831.1"><vh>心得</vh>
 <v t="leo.20200107232856.1"><vh>心得</vh></v>
@@ -289,5 +292,12 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/temperature-2&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200108211320.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200108211336.1">&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/ROC_FLAG1&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
