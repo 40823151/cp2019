@@ -16,7 +16,9 @@ void main() {
   querySelector("#roc").onClick.listen((e) => drawROC(ctx));
   querySelector("#usa").onClick.listen((e) => drawUSA(ctx));
   querySelector("#button").onClick.listen((e) => clearCanvas());
+  querySelector("#howcome").onClick.listen((e)=> drawhowcome());
 }
+
   
   drawStar(cx, cy, spikes, outerRadius, innerRadius) {
     var rot = Math.pi / 2 * 3;
@@ -143,4 +145,13 @@ void drawUSA(ctx){
 
 void clearCanvas(){
   ctx.clearRect(0, 0, flag_w, flag_h);
+  
+}
+
+void drawhowcome(){
+  ctx.clearRect( 0, 0, flag_w, flag_w);
+  ctx.beginPath();
+  ctx.fillStyle = '(fff)';
+ ctx.fillRect(0,0,flag_w,flag_h);
+  ctx.closePath();
 }
