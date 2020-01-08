@@ -25,7 +25,7 @@
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh>
 <v t="leo.20200108220341.1"><vh>目錄</vh>
-<v t="leo.20200108220403.1"><vh>目錄</vh>
+<v t="leo.20200108220403.1"><vh>目錄</vh></v>
 <v t="leo.20200108224638.1"><vh>newHeadline</vh>
 <v t="leo.20200107233047.1"><vh>重量轉換</vh>
 <v t="leo.20200107233815.1"><vh>重量轉換</vh></v>
@@ -38,7 +38,6 @@
 </v>
 <v t="leo.20200108215223.1"><vh>YOUTUBE嵌入</vh>
 <v t="leo.20200108215258.1"><vh>YOUTUBE嵌入</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -334,7 +333,10 @@ vertical: body pane on the botton</t>
 
 * [youtube嵌入](https://40823151.github.io/cp2019/reveal/index.html#/6)
 
-* [心得](https://40823151.github.io/cp2019/reveal/index.html#/7)</t>
+* [心得](https://40823151.github.io/cp2019/reveal/index.html#/7)
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200108224638.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
