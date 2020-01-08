@@ -27,6 +27,9 @@
 <v t="leo.20200107233047.1"><vh>重量轉換</vh>
 <v t="leo.20200107233815.1"><vh>重量轉換</vh></v>
 </v>
+<v t="leo.20200108193452.1"><vh>溫度轉換</vh>
+<v t="leo.20200108193515.1"><vh>溫度轉換</vh></v>
+</v>
 <v t="leo.20200107232831.1"><vh>心得</vh>
 <v t="leo.20200107232856.1"><vh>心得</vh></v>
 </v>
@@ -352,5 +355,15 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823151&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/temperature-2&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200108193452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200108193515.1">#溫度轉換
+
+
+&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823151&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/weight_change&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
