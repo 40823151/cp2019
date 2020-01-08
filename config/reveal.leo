@@ -26,6 +26,7 @@
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh>
 <v t="leo.20200108220341.1"><vh>目錄</vh>
 <v t="leo.20200108220403.1"><vh>目錄</vh>
+<v t="leo.20200108224638.1"><vh>newHeadline</vh>
 <v t="leo.20200107233047.1"><vh>重量轉換</vh>
 <v t="leo.20200107233815.1"><vh>重量轉換</vh></v>
 </v>
@@ -37,6 +38,7 @@
 </v>
 <v t="leo.20200108215223.1"><vh>YOUTUBE嵌入</vh>
 <v t="leo.20200108215258.1"><vh>YOUTUBE嵌入</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -271,21 +273,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200107232856.1"># 心得
 
-從開學到現在，我從如何架網站，到自己畫一面國旗，從Dart.pay到Java scrip
-真的很開...心
-我曾被無數的冷風吹透我胸口
-我曾被遙遠的夢逼著我仰望星空
-我曾被無數的嘲諷 讓我放棄我的音樂夢
-我曾被無數的黃土 淹沒我的澎湃洶湧
-我曾想要我的歌聲 無盡沉淪的感動
-我曾把他們當做我風雨過後 那一道彩虹
-我曾把墮落的原因 都丟給時間
-我曾把機會 就扔在我眼前
-我曾把完整的鏡子打碎
-夜晚的枕頭都是眼淚
-我多想讓過去重來 再給我一次機會
-我想說過去的時間 我誰都不為
-除了空談 也就是 事事非非</t>
+從開學到現在，我從如何架網站，到自己畫一面國旗，從Dart.pay到Java scrip</t>
 <t tx="leo.20200107233047.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -347,5 +335,8 @@ vertical: body pane on the botton</t>
 * [youtube嵌入](https://40823151.github.io/cp2019/reveal/index.html#/6)
 
 * [心得](https://40823151.github.io/cp2019/reveal/index.html#/7)</t>
+<t tx="leo.20200108224638.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
