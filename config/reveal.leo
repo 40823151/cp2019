@@ -20,7 +20,6 @@
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20200108211336.1"><vh>國旗</vh></v>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
@@ -318,11 +317,7 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200108211336.1">#FLAG ROC ,USA
-
-
-&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/ROC_FLAG1&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200108215010.1"># FLAG ROCˋUSA
+<t tx="leo.20200108215010.1"># FLAG ROC and USA
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/ROC_FLAG1&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
