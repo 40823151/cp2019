@@ -364,6 +364,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200108193515.1">#溫度轉換
 
 
-&lt;iframe height="600" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823151&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/weight_change&amp;amp;theme=dark" width="800"&gt;&lt;/iframe&gt;</t>
+&lt;iframe height="600"width="800" id="iframe" src="https://dartpad.dartlang.org/embed-dart.html?gh_owner=40823151&amp;amp;gh_repo=CP2019&amp;amp;gh_path=downloads/dart_ex/weight_change&amp;amp;theme=white" &gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
