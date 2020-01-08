@@ -338,7 +338,11 @@ vertical: body pane on the botton</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+
+						
+</t>
 <t tx="leo.20200107232856.1">#心得
 
 從開學到現在，我從如何架網站，到自己畫一面國旗，從Dart.pay到Java scrip
@@ -350,6 +354,8 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
 <t tx="leo.20200107233815.1">#重量轉換
 
@@ -360,6 +366,9 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
 </t>
 <t tx="leo.20200108193515.1">#溫度轉換
 
