@@ -10,6 +10,7 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
+<v t="leo.20200108215215.1"><vh>newHeadline</vh></v>
 <v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
 <v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
 <v t="leo.20180902120523.3"><vh>@clean index.html</vh>
@@ -30,7 +31,12 @@
 <v t="leo.20200108193452.1"><vh>溫度轉換</vh>
 <v t="leo.20200108193515.1"><vh>溫度轉換</vh></v>
 </v>
-<v t="leo.20200108211320.1"><vh>國旗</vh></v>
+<v t="leo.20200108211320.1"><vh>國旗</vh>
+<v t="leo.20200108215010.1"><vh>國旗</vh></v>
+</v>
+<v t="leo.20200108215223.1"><vh>YOUTUBE嵌入</vh>
+<v t="leo.20200108215258.1"><vh>YOUTUBE嵌入</vh></v>
+</v>
 </v>
 <v t="leo.20200107232831.1"><vh>心得</vh>
 <v t="leo.20200107232856.1"><vh>心得</vh></v>
@@ -264,7 +270,19 @@ vertical: body pane on the botton</t>
 
 從開學到現在，我從如何架網站，到自己畫一面國旗，從Dart.pay到Java scrip
 真的很開...心
-</t>
+我曾被無數的冷風吹透我胸口
+我曾被遙遠的夢逼著我仰望星空
+我曾被無數的嘲諷 讓我放棄我的音樂夢
+我曾被無數的黃土 淹沒我的澎湃洶湧
+我曾想要我的歌聲 無盡沉淪的感動
+我曾把他們當做我風雨過後 那一道彩虹
+我曾把墮落的原因 都丟給時間
+我曾把機會 就扔在我眼前
+我曾把完整的鏡子打碎
+夜晚的枕頭都是眼淚
+我多想讓過去重來 再給我一次機會
+我想說過去的時間 我誰都不為
+除了空談 也就是 事事非非</t>
 <t tx="leo.20200107233047.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -301,5 +319,18 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/ROC_FLAG1&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200108215010.1">#FLAG ROCˋUSA
+
+
+&lt;iframe width="800" height="550" src="https://dartpad.github.io/embed-html.html?gh_owner=40823151&amp;gh_repo=cp2019&amp;gh_path=downloads/dart_ex/ROC_FLAG1&amp;theme=dark" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200108215215.1"></t>
+<t tx="leo.20200108215223.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200108215258.1">#YOUTUBE
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RG7BwYyWwsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
