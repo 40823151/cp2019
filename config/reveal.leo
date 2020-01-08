@@ -272,8 +272,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200107232856.1"># 心得
 
-從開學到現在我從原始人到已知用火，走了一段快樂又樸遲無華的路程，一開始我學到了如何連線到學校網路，然後在githug上建立網站，再到簡單的迴圈程式，在期中考之前我覺得，ok 吧!用share-X拍拍影片當個快樂的youtuber，輕輕鬆鬆拿三學分。但從考完之後一秒回到解放前，蝦，老師講中文好嗎?阿重點不就是clone你程式嗎?我發現我跟屎一樣，廢了四周後要期末考了，我的程式還是一樣clone，clone，clone，呵呵!我昨天才學會怎麼畫國旗，做 reavle，轉java scripe 等等
-總之我發現我還太淺了，我因該花多點時間在計算機程式的。</t>
+從開學到現在我從原始人到已知用火，走了一段快樂又樸遲無華的路程，一開始我學到了如何連線到學校網路，然後在githug上建立網站，再到簡單的迴圈程式，用share-X拍影片當個快樂的youtuber，並將網址遷入到網站之中，些到了dart , html, css 視作甚麼的,如何轉java scripe等等，讓我多增加眼界，受益良多。</t>
 <t tx="leo.20200107233047.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -328,13 +327,13 @@ vertical: body pane on the botton</t>
 
 * [重量轉換](https://40823151.github.io/cp2019/reveal/index.html#/3)
 
-* [溫度轉換](https://40823151.github.io/cp2019/reveal/index.html#/4)
+* [溫度轉換](https://40823151.github.io/cp2019/reveal/index.html#/3/1)
 
-* [國旗](https://40823151.github.io/cp2019/reveal/index.html#/5)
+* [國旗](https://40823151.github.io/cp2019/reveal/index.html#/3/2)
 
-* [youtube嵌入](https://40823151.github.io/cp2019/reveal/index.html#/6)
+* [youtube嵌入](https://40823151.github.io/cp2019/reveal/index.html#/3/3)
 
-* [心得](https://40823151.github.io/cp2019/reveal/index.html#/7)
+* [心得](https://40823151.github.io/cp2019/reveal/index.html#/4)
 
     &lt;/script&gt;
 &lt;/section&gt;</t>
