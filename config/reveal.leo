@@ -26,7 +26,7 @@
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh>
 <v t="leo.20200108220341.1"><vh>目錄</vh>
 <v t="leo.20200108220403.1"><vh>目錄</vh></v>
-<v t="leo.20200108224638.1"><vh>newHeadline</vh>
+<v t="leo.20200108224638.1"><vh></vh>
 <v t="leo.20200107233047.1"><vh>重量轉換</vh>
 <v t="leo.20200107233815.1"><vh>重量轉換</vh></v>
 </v>
@@ -38,6 +38,9 @@
 </v>
 <v t="leo.20200108215223.1"><vh>YOUTUBE嵌入</vh>
 <v t="leo.20200108215258.1"><vh>YOUTUBE嵌入</vh></v>
+</v>
+<v t="leo.20200109095045.1"><vh> 期中期末</vh>
+<v t="leo.20200109095128.1"><vh>期中期末</vh></v>
 </v>
 </v>
 </v>
@@ -340,5 +343,16 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200108224638.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
+<t tx="leo.20200109095045.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200109095128.1">* 學會常微分方程式的dart指令，並且用excel在個人網站遷入圖表
+* 設定SSH keys，學習如何用gitextension及putty
+* 練習程式
+* 使用程式
+* 編輯自己的網站</t>
 </tnodes>
 </leo_file>
