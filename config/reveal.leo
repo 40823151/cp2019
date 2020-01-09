@@ -119,7 +119,7 @@ Created by [40823151](http://lab.kmol.info/)
     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"&gt;
     
     &lt;link rel="stylesheet" href="css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
+    &lt;link rel="stylesheet" href="css/theme/moon.css" id="theme"&gt;
     
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
@@ -349,7 +349,9 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200109095128.1">* 學會常微分方程式的dart指令，並且用excel在個人網站遷入圖表
+<t tx="leo.20200109095128.1">#期中期末
+
+* 學會常微分方程式的dart指令，並且用excel在個人網站遷入圖表
 * 設定SSH keys，學習如何用gitextension及putty
 * 練習程式
 * 使用程式
